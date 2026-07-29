@@ -25,7 +25,7 @@ jobs:
 
       - name: Fetch Hitokoto
         run: |
-          HITOKOTO=$(curl -s 'https://v1.hitokoto.cn/?c=d&c=h&c=i&c=k&encode=json' | jq -r '"「\(.hitokoto)」—— \(.from)"')
+          HITOKOTO=$(curl -s 'https://v1.hitokoto.cn/?c=d&c=h&c=i&c=k&encode=json' | jq -r '"「\(.hitokoto)」 - \(.from)"')
           echo "HITOKOTO=$HITOKOTO" >> $GITHUB_ENV
 
       - name: Update README
