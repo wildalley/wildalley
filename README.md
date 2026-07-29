@@ -26,15 +26,6 @@ Languages  C++ / Go / Python / Shell / JavaScript
 Currently  持续打磨小而实用的开源项目
 ```
 
-## 代表项目
-
-| 项目 | 简介 | 技术 |
-| :--- | :--- | :--- |
-| [wechat-antirecall-linux](https://github.com/yang316/wechat-antirecall-linux) | Linux 微信 4.1.1.8 运行时防撤回 Hook，支持 Portable 与 bwrap 环境 | C++ |
-| [linuxqq-antirecall](https://github.com/yang316/linuxqq-antirecall) | 面向 Linux QQ 的防撤回方案 | Shell |
-| [router-sysinfo](https://github.com/yang316/router-sysinfo) | 路由器系统信息展示页面 | HTML |
-| [Ai-voice-cover](https://github.com/yang316/Ai-voice-cover) | AI 声音翻唱相关实践 | Python |
-
 ## 小工具箱
 
 [打开 cola's 小工具箱](https://yang316.github.io/yang316/tools/)，包含九宫格求解器、游戏攻略等随用随开的页面工具。
