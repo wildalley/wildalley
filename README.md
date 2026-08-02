@@ -14,7 +14,7 @@
   </p>
 </div>
 
-> <!-- HITOKOTO -->「天上天下，唯我独尊。」 - 佛典<!-- /HITOKOTO -->
+> <!-- HITOKOTO -->「宇宙是蚂蚁的梦。」 - the shivering truth<!-- /HITOKOTO -->
 
 ## 关于我
 
