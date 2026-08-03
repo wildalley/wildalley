@@ -14,7 +14,7 @@
   </p>
 </div>
 
-> <!-- HITOKOTO -->「宇宙是蚂蚁的梦。」 - the shivering truth<!-- /HITOKOTO -->
+> <!-- HITOKOTO -->「我喜欢猪，狗崇拜人类，猫鄙视人类，猪对我们一视同仁。」 - 温斯顿·丘吉尔<!-- /HITOKOTO -->
 
 ## 关于我
 
