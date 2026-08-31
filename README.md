@@ -14,7 +14,7 @@
   </p>
 </div>
 
-> <!-- HITOKOTO -->「如果你没有做好准备，你就是在准备失败。」 - 本杰明·富兰克林<!-- /HITOKOTO -->
+> <!-- HITOKOTO -->「I will always be here for you.」 - 环太平洋 Pacific Rim<!-- /HITOKOTO -->
 
 ## 关于我
 
