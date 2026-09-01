@@ -14,7 +14,7 @@
   </p>
 </div>
 
-> <!-- HITOKOTO -->「I will always be here for you.」 - 环太平洋 Pacific Rim<!-- /HITOKOTO -->
+> <!-- HITOKOTO -->「我们的情人，不过是随便借个名字，用幻想吹出来的肥皂泡。」 - 大鼻子情圣<!-- /HITOKOTO -->
 
 ## 关于我
 
