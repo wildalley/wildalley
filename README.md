@@ -5,7 +5,7 @@
 
   <h1>Hi, I'm wildalley</h1>
 
-  <p>Linux 桌面生态、实用工具与 Web 应用开发</p>
+  <p>网络代理与路由固件、嵌入式通信与 Linux 桌面生态</p>
 
   <p>
     <a href="https://github.com/wildalley?tab=repositories">项目</a>
@@ -18,13 +18,19 @@
 
 ## 关于我
 
-我喜欢把日常使用中的真实问题做成可运行、可复用的工具。目前主要关注 Linux 桌面应用扩展、前后端开发和自动化，也会持续整理游戏工具与实践记录。
+我喜欢把日常使用中的真实问题做成可运行、可复用的工具。目前主要关注网络代理与路由固件、嵌入式通信设备，以及 Linux 桌面应用扩展，也会持续整理游戏工具与实践记录。
 
 ```text
-Focus      Linux / Web / Automation
-Languages  C++ / Go / Python / Shell / JavaScript
+Focus      Networking / Embedded / Linux / Web
+Languages  Python / Dart / C++ / TypeScript / Shell
 Currently  持续打磨小而实用的开源项目
 ```
+
+## 最近在做
+
+- **[singbox-client](https://github.com/wildalley/singbox-client)** — Flutter 版 sing-box 客户端，订阅导入与 Clash API 控制；Android 侧基于 VpnService + libbox 起隧道 `Dart`
+- **[sing-box-merlin-core](https://github.com/wildalley/sing-box-merlin-core)** — 为华硕梅林 / koolshare 固件重编的 sing-box ARM64 静态核心，自动跟随上游发布 `Shell`
+- **[air780e-hub](https://github.com/wildalley/air780e-hub)** — Air780E 多卡短信中枢，短信收发、通知转发、保号自动化与 Web 管理 `Python`
 
 ## 小工具箱
 
@@ -34,8 +40,8 @@ Currently  持续打磨小而实用的开源项目
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildalley/wildalley/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wildalley/wildalley/main/dist/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/wildalley/wildalley/main/dist/github-contribution-grid-snake-dark.svg" alt="wildalley 的 GitHub 贡献记录动画" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wildalley/wildalley/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/wildalley/wildalley/main/dist/github-contribution-grid-snake.svg" alt="wildalley 的 GitHub 贡献记录动画" />
 </picture>
 
 <div align="right">
