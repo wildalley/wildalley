@@ -14,7 +14,7 @@
   </p>
 </div>
 
-> <!-- HITOKOTO -->「地球不需要被拯救，需要被拯救的是人类自己。」 - 柴静专访<!-- /HITOKOTO -->
+> <!-- HITOKOTO -->「纵星河万里，亦不及你一垂眸。」 - Samsara_soul<!-- /HITOKOTO -->
 
 ## 关于我
 
