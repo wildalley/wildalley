@@ -14,7 +14,7 @@
   </p>
 </div>
 
-> <!-- HITOKOTO -->「纵星河万里，亦不及你一垂眸。」 - Samsara_soul<!-- /HITOKOTO -->
+> <!-- HITOKOTO -->「经过上千年的修炼，你学到的就是这个吗？」 - 神龙许愿<!-- /HITOKOTO -->
 
 ## 关于我
 
