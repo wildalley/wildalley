@@ -50,7 +50,7 @@ Currently  Framely / Ferry
 
 ## 小工具箱
 
-[打开 cola's 小工具箱](https://wildalley.github.io/wildalley/tools/)，包含九宫格求解器、游戏攻略等随用随开的页面工具。
+[打开 wildalley 的小工具箱](https://wildalley.github.io/wildalley/tools/)，包含九宫格求解器、游戏攻略等随用随开的页面工具。
 
 ## GitHub 活动
 
