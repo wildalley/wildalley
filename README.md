@@ -8,7 +8,7 @@
   <p>Go 服务与桌面应用 · 网络代理与设备通信 · Linux 与可观测性</p>
 
   <p>
-    <a href="https://blog.hb430.cn/">博客</a>
+    <a href="https://blog.yehenest.com/">博客</a>
     ·
     <a href="https://github.com/wildalley?tab=repositories">项目</a>
     ·
@@ -22,7 +22,7 @@
 
 我是 **wildalley**。日常使用 Arch Linux，喜欢折腾 Wayland 桌面，也喜欢把使用中遇到的真实问题做成可运行、可复用的开源工具。
 
-最近在打磨 Framely「取景」截图工具和「渡 Ferry」跨平台代理客户端，也持续维护服务器监控、Air780E 多卡短信中枢、路由固件核心与 AI 编码扩展。开发过程、部署经验和踩过的坑，会整理到[博客](https://blog.hb430.cn/)里。
+最近在打磨 Framely「取景」截图工具和「渡 Ferry」跨平台代理客户端，也持续维护服务器监控、Air780E 多卡短信中枢、路由固件核心与 AI 编码扩展。开发过程、部署经验和踩过的坑，会整理到[博客](https://blog.yehenest.com/)里。
 
 ```text
 Focus      Desktop / Networking / Embedded / Observability
